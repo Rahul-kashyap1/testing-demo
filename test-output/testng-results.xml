@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-22T12:30:25 IST" name="Default suite" finished-at="2022-05-22T12:30:31 IST" duration-ms="6251">
+  <suite started-at="2022-05-22T15:34:29 IST" name="Default suite" finished-at="2022-05-22T15:34:34 IST" duration-ms="5089">
     <groups>
     </groups>
-    <test started-at="2022-05-22T12:30:25 IST" name="Default test" finished-at="2022-05-22T12:30:31 IST" duration-ms="6251">
-      <class name="com.demo.qa.testcase.HomePagetest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.qa.testcase.HomePagetest@222545dc]" started-at="2022-05-22T12:30:25 IST" name="setUp" finished-at="2022-05-22T12:30:31 IST" duration-ms="5900" status="PASS">
+    <test started-at="2022-05-22T15:34:29 IST" name="Default test" finished-at="2022-05-22T15:34:34 IST" duration-ms="5089">
+      <class name="com.demo.qa.testcase.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo.qa.testcase.HomePageTest@479d31f3]" started-at="2022-05-22T15:34:29 IST" name="setUp" finished-at="2022-05-22T15:34:33 IST" duration-ms="4774" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="getTitle()[pri:0, instance:com.demo.qa.testcase.HomePagetest@222545dc]" started-at="2022-05-22T12:30:31 IST" name="getTitle" finished-at="2022-05-22T12:30:31 IST" duration-ms="17" status="PASS">
+        <test-method signature="getTitle()[pri:0, instance:com.demo.qa.testcase.HomePageTest@479d31f3]" started-at="2022-05-22T15:34:33 IST" name="getTitle" finished-at="2022-05-22T15:34:33 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demo.qa.testcase.HomePagetest@222545dc]" started-at="2022-05-22T12:30:31 IST" name="tearDown" finished-at="2022-05-22T12:30:31 IST" duration-ms="272" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demo.qa.testcase.HomePageTest@479d31f3]" started-at="2022-05-22T15:34:33 IST" name="tearDown" finished-at="2022-05-22T15:34:34 IST" duration-ms="256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.demo.qa.testcase.HomePagetest -->
+      </class> <!-- com.demo.qa.testcase.HomePageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
